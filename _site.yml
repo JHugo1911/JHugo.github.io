@@ -1,0 +1,9 @@
+name: "Investigación de Ecosistemas Empresariales"
+output_dir: "."
+navbar:
+  title: "Investigación de Ecosistemas Empresariales"
+  left:
+    - text: "¿Que investigamos?"
+      href: index.html
+    - text: "Red del Primer estudio 1"
+      href: about.html
